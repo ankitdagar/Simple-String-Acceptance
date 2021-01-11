@@ -1,0 +1,14 @@
+print("Welcome To Ankit-DAGAR__TOC_WAP#2 !!")
+
+x=str(input("Enter a string:- "))
+
+y="mru"
+z="mrd"
+
+if x==y:
+    print("Accepted")
+elif x==z:
+    print("Accepted")
+else:
+    print("Not Accepted")
+    
